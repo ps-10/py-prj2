@@ -10,5 +10,5 @@ df = pd.read_csv(r"C:\Users\prade\PycharmProjects\py-prj2\titanic-full.csv")  # 
 plt.figure(figsize=(8,6))
 sns.stripplot(data=df, x='Sex', y='Age')
 # sns.boxplot(data=df,x='Sex',y='Age')
-#sns.violinplot(data=df,x='Sex',y='Age')
+# sns.violinplot(data=df,x='Sex',y='Age')
 plt.show()
