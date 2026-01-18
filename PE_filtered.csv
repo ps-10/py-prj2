@@ -1,0 +1,69 @@
+Symbol,Name,Sector,Price,Price/Earnings,Dividend Yield,Earnings/Share,52 Week Low,52 Week High,Market Cap,EBITDA,Price/Sales,Price/Book,SEC Filings
+CBOE,CBOE Holdings,Financials,111.15,35.06,0.9426963,2.27,138.54,76.75,12998295607.0,488406000.0,8.249042,5.15,http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=CBOE
+AIZ,Assurant Inc,Financials,85.16,33.27,2.5313594,9.08,106.985,85.91,4653993594.0,0.0,0.9821866,1.12,http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=AIZ
+CME,CME Group Inc.,Financials,153.04,32.15,3.6828613,11.94,163.0,114.8176,54423298745.0,2851800000.0,14.881806,2.51,http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=CME
+BRK.B,Berkshire Hathaway,Financials,191.42,30.43,0.0,9.76,217.62,160.93,261401203633.0,0.0,1.4328232,1.58,http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=BRK.B
+SCHW,Charles Schwab Corporation,Financials,48.9,29.82,0.76878726,1.61,56.25,37.16,69750188843.0,0.0,7.949615,4.51,http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=SCHW
+CINF,Cincinnati Financial,Financials,70.34,27.48,2.918904,3.55,81.98,68.24,11916533018.0,0.0,2.756679,1.6,http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=CINF
+SPGI,"S&P Global, Inc.",Financials,173.31,27.38,1.0947506,7.95,185.38,124.64,46585950000.0,3021000000.0,10.254704,50.56,http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=SPGI
+RE,Everest Re Group Ltd.,Financials,241.06,27.24,2.1078234,23.71,277.17,208.81,10131892523.0,0.0,2.0991988,1.16,http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=RE
+MCO,Moody's Corp,Financials,152.14,26.55,1.114065,1.35,167.23,106.48,30189978000.0,1238000000.0,9.932974,73.84,http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=MCO
+AIG,"American International Group, Inc.",Financials,58.28,23.22,2.1167521,-0.76,67.3,57.85,54360073164.0,0.0,1.4686536,0.75,http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=AIG
+ICE,Intercontinental Exchange,Financials,67.0,22.95,5.4298644,2.37,76.1378,56.8,41373051167.0,3103000000.0,9.619987,2.62,http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=ICE
+BHF,Brighthouse Financial Inc,Financials,55.44,22.63,0.0,-24.62,75.0,52.751,7066613254.0,0.0,1.4188358,0.51,http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=BHF
+BLK,BlackRock,Financials,509.38,22.49,2.1643558,30.3,594.52,368.0,85907759858.0,5684000000.0,6.9158196,2.95,http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=BLK
+ETFC,E*Trade,Financials,48.48,22.14,0.0,2.15,56.0,32.25,13754977266.0,0.0,5.689136,2.15,http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=ETFC
+AJG,Arthur J. Gallagher & Co.,Financials,64.4,21.05,2.4807138,2.54,70.55,53.63,11968488290.0,888000000.0,1.9400215,2.92,http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=AJG
+AON,Aon plc,Financials,136.05,20.8,1.0245464,4.66,152.78,113.2201,35123123422.0,1858000000.0,3.4972682,6.78,http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=AON
+PGR,Progressive Corp.,Financials,51.07,20.76,2.1061797,2.73,58.25,36.84,31062780000.0,0.0,1.1458876,3.25,http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=PGR
+MMC,Marsh & McLennan,Financials,79.31,20.23,1.8257059,2.87,86.54,69.33,41819440000.0,3236000000.0,2.9848945,5.85,http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=MMC
+NTRS,Northern Trust Corp.,Financials,96.2,19.96,1.6678249,4.92,108.91,83.17,22908130223.0,0.0,4.031728,2.44,http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=NTRS
+TROW,T. Rowe Price Group,Financials,101.99,19.92,2.140443,4.75,120.07,66.7,25810865035.0,2281400000.0,7.3911157,4.61,http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=TROW
+MTB,M&T Bank Corp.,Financials,178.35,18.91,1.6218846,8.69,193.85,141.12,27840827434.0,0.0,4.6277885,1.79,http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=MTB
+CMA,Comerica Inc.,Financials,89.18,18.89,1.2823253,4.13,98.18,64.04,16274969256.0,0.0,4.905472,1.96,http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=CMA
+WLTW,Willis Towers Watson,Financials,152.36,18.67,1.347058,3.07,165.0,120.869,20780269334.0,1440000000.0,3.4484663,2.1,http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=WLTW
+PBCT,People's United Financial,Financials,18.56,18.02,3.59375,0.97,20.14,15.965,6527616000.0,0.0,3.9272704,1.17,http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=PBCT
+RF,Regions Financial Corp.,Financials,17.9,17.9,1.8987342,1.0,19.9,13.0,21500640000.0,0.0,3.474771,1.32,http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=RF
+NDAQ,"Nasdaq, Inc.",Financials,75.21,17.78,1.9671283,4.32,83.29,65.98,12844304115.0,1212000000.0,3.2591083,2.25,http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=NDAQ
+ZION,Zions Bancorp,Financials,50.71,17.73,1.480933,2.6,55.61,38.43,10670678640.0,0.0,3.7945793,1.42,http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=ZION
+PNC,PNC Financial Services,Financials,149.38,17.55,1.9354838,10.4,160.07,115.25,73315000000.0,0.0,4.04653,1.53,http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=PNC
+CB,Chubb Limited,Financials,140.39,17.5,1.9251627,8.2,157.5,130.17,68424670566.0,0.0,2.0985637,1.35,http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=CB
+TMK,Torchmark Corp.,Financials,80.52,17.02,0.7204611,4.5,93.595,73.53,9614412169.0,0.0,3.1079664,1.88,http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=TMK
+RJF,Raymond James Financial Inc.,Financials,86.06,16.94,1.0982976,4.12,99.1,71.35,13216271700.0,0.0,1.9734555,2.34,http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=RJF
+FITB,Fifth Third Bancorp,Financials,31.1,16.9,1.9789734,2.85,33.91,23.2,22437653700.0,0.0,2.8802848,1.46,http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=FITB
+TRV,The Travelers Companies Inc.,Financials,135.01,16.48,2.0261714,7.31,150.55,113.76,38903131815.0,0.0,1.33382,1.63,http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=TRV
+BAC,Bank of America Corp,Financials,29.74,16.34,1.536,1.55,32.67,22.07,321478200969.0,0.0,3.2011874,1.24,http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=BAC
+BBT,BB&T Corporation,Financials,51.07,16.26,2.4526198,2.74,55.99,41.17,42087562920.0,0.0,3.4552107,1.55,http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=BBT
+STI,SunTrust Banks,Financials,65.8,16.25,2.3185046,4.48,72.06,51.96,32498948310.0,0.0,3.3089445,1.38,http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=STI
+CFG,Citizens Financial Group,Financials,42.19,16.04,1.9625335,3.27,48.23,31.51,22008050974.0,0.0,3.3917346,1.08,http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=CFG
+L,Loews Corp.,Financials,46.05,15.99,4.5131636,1.93,53.59,45.01,16111166935.0,0.0,1.5809761,0.85,http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=L
+JPM,JPMorgan Chase & Co.,Financials,107.88,15.43,1.9845841,6.3,117.3529,81.635,386613611000.0,0.0,3.3714993,1.6,http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=JPM
+HBAN,Huntington Bancshares,Financials,15.1,15.41,2.8132992,1.0,16.53,12.14,16766497291.0,0.0,3.5112102,1.72,http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=HBAN
+LUK,Leucadia National Corp.,Financials,23.86,15.39,1.5993602,0.33,28.3,22.23,8910389431.0,2201336000.0,1.0410156,0.84,http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=LUK
+USB,U.S. Bancorp,Financials,52.65,15.35,2.189781,3.52,58.5,49.535,90940115897.0,0.0,3.7773547,2.09,http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=USB
+STT,State Street Corp.,Financials,98.54,15.35,1.6228749,5.23,114.27,75.27,38059113300.0,0.0,3.263072,1.95,http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=STT
+AXP,American Express Co,Financials,88.34,15.0,1.4955667,2.9,102.385,75.51,80410990000.0,0.0,2.273575,3.75,http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=AXP
+BK,The Bank of New York Mellon Corp.,Financials,53.29,14.76,1.7347307,3.73,58.99,44.91,56083904906.0,0.0,3.3834257,1.49,http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=BK
+KEY,KeyCorp,Financials,20.08,14.66,1.9876952,1.12,22.22,16.28,22589744920.0,0.0,3.270451,1.55,http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=KEY
+HIG,Hartford Financial Svc.Gp.,Financials,53.34,14.34,1.7901897,2.27,59.2,46.35,19926305632.0,0.0,1.3939538,1.15,http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=HIG
+MS,Morgan Stanley,Financials,51.79,14.23,1.8331805,3.09,58.05,40.06,97535400000.0,0.0,2.2258842,1.33,http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=MS
+WFC,Wells Fargo,Financials,55.4,13.58,2.7111576,4.07,66.31,49.27,281463620775.0,0.0,2.8728192,1.58,http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=WFC
+C,Citigroup Inc.,Financials,71.87,13.48,1.7068943,-3.1,80.7,56.14,192709302000.0,0.0,2.1857586,0.9,http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=C
+SYF,Synchrony Financial,Financials,34.98,13.35,1.6,2.41,40.59,26.01,28893750000.0,0.0,2.1096623,1.97,http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=SYF
+ALL,Allstate Corp,Financials,90.06,13.26,1.5278208,4.68,105.36,77.73,34759468905.0,0.0,1.2085556,1.67,http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=ALL
+BEN,Franklin Resources,Financials,38.0,12.67,2.332657,3.0,47.65,37.01,21759187973.0,2711300000.0,3.399101,1.83,http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=BEN
+GS,Goldman Sachs Group,Financials,246.35,12.44,1.1668612,8.61,273.79,209.62,96978500251.0,0.0,2.309415,1.25,http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=GS
+AMP,Ameriprise Financial,Financials,152.5,12.41,2.0735743,9.44,183.9,118.84,23472126000.0,0.0,1.9493247,3.73,http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=AMP
+HRB,Block H&R,Financials,25.19,12.29,3.7296038,1.92,31.8,19.85,5381433872.0,894754000.0,2.0188456,205.41,http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=HRB
+AMG,Affiliated Managers Group Inc,Financials,179.11,12.24,0.6387395,12.07,216.995,148.81,10442174371.0,1261400000.0,4.591235,2.89,http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=AMG
+AFL,AFLAC Inc,Financials,83.25,12.24,2.4299066,11.01,91.73,68.8,33422948000.0,0.0,1.5429344,1.53,http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=AFL
+DFS,Discover Financial Services,Financials,72.4,12.13,1.8269607,5.41,81.93,57.5,27433540000.0,0.0,2.3610325,2.52,http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=DFS
+PFG,Principal Financial Group,Financials,60.38,11.96,3.1914895,4.5,75.585,58.9401,18457199721.0,0.0,1.7167546,1.53,http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=PFG
+IVZ,Invesco Ltd.,Financials,31.92,11.87,3.466826,2.74,38.43,29.36,13620847614.0,1606200000.0,2.6513786,1.62,http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=IVZ
+COF,Capital One Financial,Financials,91.8,11.85,1.6306564,3.45,106.5,76.05,47637260000.0,0.0,1.5931405,0.94,http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=COF
+UNM,Unum Group,Financials,47.87,11.51,1.8189007,4.38,58.73,43.55,11256432318.0,0.0,0.9984924,1.19,http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=UNM
+PRU,Prudential Financial,Financials,103.38,9.99,2.6985698,9.73,127.14,97.88,47136080000.0,0.0,1.083727,0.93,http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=PRU
+LNC,Lincoln National,Financials,73.86,9.49,1.6813145,9.24,86.68,61.45,17123031000.0,0.0,1.201944,1.04,http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=LNC
+MET,MetLife Inc.,Financials,44.28,8.52,3.4587116,0.63,56.58,44.58,48679364276.0,0.0,1.0496864,0.85,http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=MET
+NAVI,Navient,Financials,13.38,7.56,4.5584044,1.01,16.97,11.481,3692691330.0,0.0,0.6986579,1.02,http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=NAVI
+XL,XL Capital,Financials,41.26,-19.93,2.0952382,-2.24,47.27,33.77,10753423590.0,0.0,0.84394187,0.97,http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=XL
